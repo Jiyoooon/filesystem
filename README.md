@@ -24,27 +24,27 @@
 
 - 초기화면
 
-  ![image-20201211171345990](capture\start.png)
+  ![image-20201211171345990](capture/start.png)
 
 - listing directory files (CD `디렉터리명`) 
 
-  ![image-20201211170718686](capture\listingDirectory.png)
+  ![image-20201211170718686](capture/listingDirectory.png)
 
 - reading file (OPEN `파일명`)
 
-  ![image-20201211171046893](capture\readingFile.png)
+  ![image-20201211171046893](capture/readingFile.png)
 
 - remaing file (RENAME `old_파일명 new_파일명`)
 
-  ![image-20201211171517515](capture\renamingFile.png)
+  ![image-20201211171517515](capture/renamingFile.png)
 
 - copying file
 
-  ![image-20201211171531837](capture\copyingFile.png)
+  ![image-20201211171531837](capture/copyingFile.png)
 
 - exit program
 
-  ![image-20201211171619301](capture\end.png)
+  ![image-20201211171619301](capture/end.png)
 
 
 
