@@ -38,11 +38,11 @@
 
   ![image-20201211171517515](capture/renamingFile.png)
 
-- copying file
+- copying file (COPY `old_파일명 new_파일명`)
 
   ![image-20201211171531837](capture/copyingFile.png)
 
-- exit program
+- exit program (EXIT)
 
   ![image-20201211171619301](capture/end.png)
 
