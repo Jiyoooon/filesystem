@@ -11,7 +11,7 @@
 
 - 콘솔창에 주어진 명령어 입력을 통해 보드에 삽입된 SD카드의 파일을 읽어오는 등 파일 시스템 동작을 수행함
 
-- 구현 내용
+- 구현 내용 [코드 보기](fat16파일시스템_Main.c)
   - listing Root/Sub directory files
   - reading file 
   - renaming file
